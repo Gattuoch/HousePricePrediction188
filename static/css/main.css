@@ -1,0 +1,73 @@
+body {
+    background: hsl(0, 2%, 25%);
+    background-size: cover; /* Ensures the background covers the entire screen */
+    background-position: center; /* Centers the background image */
+    height: 100vh; /* Ensures the body takes full viewport height */
+    margin: 0; /* Removes any default margin */
+}
+
+header {
+    background-color: #139ceb;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+main{
+    background-color: #f0530a;
+    border-radius: 10px;
+    color: #139ceb;
+     max-width: 800px;
+     margin: 20px auto;
+     padding: 20px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+main p{
+    
+    text-align: center;
+    color: #f0530a;
+ }
+
+.register_page{
+    width: 360px;
+    margin: auto;
+}
+.form {
+    position: relative;
+    z-index: 1;
+    background-color: hsl(0, 0%, 100%);  /* Fallback to white if image is not loaded */
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    border-radius: 10px; /* Optional, for rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional, for soft shadow */
+ }
+ 
+.form input{
+    font-family: 'Times New Roman', Times, serif;
+    outline: 1;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin-top: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+}
+.submit{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: rgb(100, 237, 123);
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color:purple;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
