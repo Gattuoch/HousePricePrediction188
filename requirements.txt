@@ -4,11 +4,14 @@ colorama==0.4.6
 Flask==3.1.0
 gunicorn==23.0.0
 itsdangerous==2.2.0
+pip
+setuptools
 wheel
+numpy==1.21.6
+distutils
 Jinja2==3.1.5
 joblib==1.4.2
 MarkupSafe==3.0.2
-numpy==2.2.2
 packaging==24.2
 pandas==2.2.3
 python-dateutil==2.9.0.post0
