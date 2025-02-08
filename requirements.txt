@@ -5,9 +5,9 @@ Flask==3.1.0
 gunicorn==23.0.0
 itsdangerous==2.2.0
 pip
-setuptools
+setuptools>=65.5.0
 wheel
-numpy==2.2.2
+numpy
 distutils
 Jinja2==3.1.5
 joblib==1.4.2
