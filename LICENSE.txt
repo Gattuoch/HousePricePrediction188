@@ -1,4 +1,4 @@
-MIT License
+GCT License
 
 Copyright (c) 2025 Gattuoch Chambang Teny
 

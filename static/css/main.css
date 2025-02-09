@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     background: rgb(243, 241, 241);
+=======
+    background:rgb(243, 241, 241);
+>>>>>>> a1e087fda2b334527ef223c2fa3f670b486141dd
     background-size: cover; /* Ensures the background covers the entire screen */
     background-position: center; /* Centers the background image */
     height: 100vh; /* Ensures the body takes full viewport height */
